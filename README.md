@@ -1,9 +1,7 @@
 JM-AjaxDropDownDemo
 ===================
 
-Ajax Drop Down Demo for JeremyMorgan.com
-
-{% img center https://s3-us-west-1.amazonaws.com/jeremymorgan/hosted/php-mysql-ajax-tutorial.jpg Your first PHP Ajax App %}
+###Ajax Drop Down Demo for JeremyMorgan.com
 
 This is the source code for a tutorial I wrote for my blog titled [How to Create an Ajax Drop Down Menu With PHP and MySQL](http://www.jeremymorgan.com/tutorials/php-tutorials/how-to-create-an-ajax-drop-down-menu-with-php-and-mysql/).
 
